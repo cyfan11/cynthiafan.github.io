@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! I'm a senior undergraduate student at Davidson College, majoring in Mathematics (honors) and Computer Science. I'm currently working with [Dr. Tim Chartier](https://www.davidson.edu/people/tim-chartier) on my honor thesis in applied math track about dominance graph and ranking. I'm also continuing to work with my summer research group at MIT led by Paul Zhang on hex mesh decomposition. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm broadly interested in geometry processing, computer graphics, graph theory, machine learning as well as data analytics.
 
-What else do you need?
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

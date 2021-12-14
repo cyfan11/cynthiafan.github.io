@@ -15,7 +15,7 @@ author: Xinyi (Cynthia) Fan
 
 navbar-links:
   About Me: "aboutme"
-  Resources: "research experiences"
+  Research: "research experiences"
   CV: "/assets/img/Resume.pdf"
 # --- Logo --- #
 
@@ -37,7 +37,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "cyfan@davidson.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: cyfan11
   linkedin: Xinyi Fan
 #  medium: yourname
@@ -61,7 +61,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Hi!
 
 # --- General options --- #
 
@@ -77,10 +77,10 @@ url-pretty: "cyfan11.github.io/page/"
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+#feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+#feed_show_tags: true
 
 # Add a search button to the navbar
 post_search: true
